@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pavan542935/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/pavan542935/DSA/tree/master/0071-simplify-path) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pavan542935/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/pavan542935/DSA/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
