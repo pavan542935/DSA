@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pavan542935/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/pavan542935/DSA/tree/master/0039-combination-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pavan542935/DSA/tree/master/0098-validate-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/pavan542935/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
