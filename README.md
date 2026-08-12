@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pavan542935/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/pavan542935/DSA/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -73,8 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pavan542935/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/pavan542935/DSA/tree/master/0070-climbing-stairs) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pavan542935/DSA/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pavan542935/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
